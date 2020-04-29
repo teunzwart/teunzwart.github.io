@@ -109,7 +109,7 @@
    ========================================================================== */
 
 .author__avatar {
-  display: table-cell;
+  display: none;
   vertical-align: top;
   width: 36px;
   height: 36px;
@@ -121,13 +121,10 @@
   }
 
   img {
+    min-width: 100px;
     max-width: 170px;
-    // border-radius: 50%;
-
-    // @include breakpoint($large) {
-    //   padding: 5px;
-    //   border: 1px solid $border-color;
-    // }
+    margin: auto;
+    display: block;
   }
 }
 
@@ -152,9 +149,12 @@
 }
 
 .author__name {
+  display: none;
   margin: 0;
+  text-align: center;
 
   @include breakpoint($large) {
+    display: block;
     margin-top: 10px;
     margin-bottom: 10px;
   }
@@ -175,7 +175,7 @@
 
 .author__urls-wrapper {
   position: relative;
-  display: table-cell;
+  display: none;
   vertical-align: middle;
   font-family: $sans-serif;
   z-index: 10;

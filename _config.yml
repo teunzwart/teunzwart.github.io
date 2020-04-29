@@ -113,9 +113,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "teunzwart.github.io"
-      icon: "fas fa-fw fa-link"
-      url: "https://teunzwart.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/teunzwart"
