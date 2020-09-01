@@ -97,11 +97,14 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Amsterdam, The Netherlands"
-  email            :
+  email            : ""
   links:
-    - label: "teunzwart.github.io"
+    - label: "teunzwart.com"
       icon: "fas fa-fw fa-link"
-      url: "https://teunzwart.github.io"
+      url: "https://teunzwart.com"
+    - label: "contact@teunzwart.com"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:contact@teunzwart.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/teunzwart"
