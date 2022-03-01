@@ -5,7 +5,7 @@ title = "Too Good To Go Bag #1"
 description = ""
 slug = ""
 authors = []
-categories = ["To Good To Go"]
+categories = ["Too Good To Go"]
 externalLink = ""
 +++
 
