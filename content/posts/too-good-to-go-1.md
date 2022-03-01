@@ -11,4 +11,4 @@ externalLink = ""
 
 Had a nice Too Good To Go bag from Flink today:
 
-![Too Good To Go bag 1](/images/toogoodtogo_1.jpeg 'Too Good To Go bag 1')
+![Too Good To Go bag 1](/images/too-good-to-go-1.jpeg)
