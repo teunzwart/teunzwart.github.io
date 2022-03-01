@@ -26,8 +26,6 @@
             </span>
           </div>
           {{ with .Page.Params.Authors }}{{ partial "taxonomy/authors.html" . }}{{ end }}
-          {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
-          {{ with .Page.Params.Tags }}{{ partial "taxonomy/tags.html" . }}{{ end }}
         </div>
       </header>
 
@@ -40,6 +38,7 @@
 
 
       <footer>
+        {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
         {{ partial "posts/series.html" . }}
         {{ partial "posts/disqus.html" . }}
         {{ partial "posts/commento.html" . }}
