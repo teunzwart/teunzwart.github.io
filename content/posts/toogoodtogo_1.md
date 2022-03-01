@@ -5,10 +5,8 @@ title = "Too Good To Go Bag #1"
 description = ""
 slug = ""
 authors = []
-tags = []
-categories = []
+categories = ["To Good To Go"]
 externalLink = ""
-series = []
 +++
 
 Had a nice Too Good To Go bag from Flink today:
