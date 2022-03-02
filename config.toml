@@ -59,7 +59,7 @@ url = "https://www.linkedin.com/in/teunzwart/"
 name = "Email"
 icon = "fa fa-2x fa-envelope"
 weight = 4
-url = "mailto:contact@teunzwart.com"
+url = "mailto:contact@teunzwart.nl"
 
 
 # [[params.social]]
