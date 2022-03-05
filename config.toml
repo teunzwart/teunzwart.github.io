@@ -15,7 +15,7 @@ author = "Teun Zwart"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Teun Zwart's personal website"
 keywords = "blog,developer,personal"
-info = ["Python Developer"]
+info = []
 avatarURL = "images/bio-photo.jpg"
 # gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
