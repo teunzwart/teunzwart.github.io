@@ -3309,10 +3309,8 @@ figure {
 .avatar img {
   width: 20rem;
   height: auto;
-  border-radius: 50%; }
-  @media only screen and (max-width: 768px) {
-    .avatar img {
-      width: 10rem; } }
+  border-radius: 20%; }
+
 .list ul {
   margin: 3.2rem 0 3.2rem 0;
   list-style: none;
