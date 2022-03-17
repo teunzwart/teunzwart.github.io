@@ -52,23 +52,22 @@ url = "https://github.com/teunzwart/"
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
-weight = 4
+weight = 2
 url = "https://www.linkedin.com/in/teunzwart/"
 
 [[params.social]]
 name = "Email"
 icon = "fa fa-2x fa-envelope"
-weight = 4
+weight = 3
 url = "mailto:contact@teunzwart.nl"
-
-
-# [[params.social]]
-# name = "RSS"
-# icon = "fa fa-2x fa-rss"
-# weight = 6
-# url = "https://myhugosite.com/index.xml"
-# rel = "alternate"
-# type = "application/rss+xml"
+    
+[[params.social]]
+name = "RSS"
+icon = "fa fa-2x fa-rss"
+weight = 4
+url = "https://teunzwart.nl/index.xml"
+rel = "alternate"
+type = "application/rss+xml"
 
 [languages.en]
 languageName = ":uk:"
