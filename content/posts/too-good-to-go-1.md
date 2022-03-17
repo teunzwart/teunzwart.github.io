@@ -9,6 +9,6 @@ categories = ["Too Good To Go"]
 externalLink = ""
 +++
 
-Had a nice Too Good To Go bag from Flink today:
+Had a nice Too Good To Go bag from Flink today.
 
 ![Too Good To Go bag 1](/images/too-good-to-go-1.jpeg)
