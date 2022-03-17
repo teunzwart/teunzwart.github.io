@@ -63,7 +63,7 @@ url = "mailto:contact@teunzwart.nl"
     
 [[params.social]]
 name = "RSS"
-icon = "fa fa-2x fa-rss"
+icon = "fa fa-2x fa-rss-square"
 weight = 4
 url = "https://teunzwart.nl/index.xml"
 rel = "alternate"
