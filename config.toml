@@ -1,4 +1,4 @@
-baseURL = 'https://www.teunzwart.com/'
+baseURL = 'https://teunzwart.nl/'
 languageCode = 'en-us'
 title = 'Teun Zwart'
 theme = "hugo-coder"
