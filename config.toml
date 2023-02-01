@@ -72,10 +72,10 @@ type = "application/rss+xml"
 [languages.en]
 languageName = ":uk:"
 
-[[languages.en.menu.main]]
-name = "About"
-weight = 2
-url = "about/"
+# [[languages.en.menu.main]]
+# name = "About"
+# weight = 2
+# url = "about/"
 
 [[languages.en.menu.main]]
 name = "Blog"
