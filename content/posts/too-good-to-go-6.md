@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2023-10-15T22:09:47+02:00
-title = "Too Good To Go Bag 6"
+title = "Too Good To Go Bag #6"
 description = ""
 slug = ""
 authors = []
