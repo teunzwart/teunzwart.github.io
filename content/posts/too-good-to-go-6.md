@@ -1,7 +1,7 @@
 +++ 
 draft = false
-date = {{ .Date }}
-title = "Too Good To Go Bag #6"
+date = 2023-10-15T22:09:47+02:00
+title = "Too Good To Go Bag 6"
 description = ""
 slug = ""
 authors = []
@@ -11,4 +11,4 @@ externalLink = ""
 
 This time I got sushi from a local restuarant, left at the end of the day.
 
-![Too Good To Go Bag 6](/images/too-good-to-go-6.jp6g)
+![Too Good To Go Bag 6](/images/too-good-to-go-6.jpg)
