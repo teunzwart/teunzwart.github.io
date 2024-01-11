@@ -1,5 +1,5 @@
 +++
-title = "Rode Bieten"
+title = ""
 date = "2024-01-11"
 +++
 
